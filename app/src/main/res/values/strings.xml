@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DuckFunds</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="google_Oauth_client_id">32785396161-ag8dfak59i5cdf88vnbbn9dc640hn5n1.apps.googleusercontent.com </string>
+    <string name="google_Oauth_client_secret">TseeACAztpqv-hzj_T6RIejv </string>
 </resources>
