@@ -3,7 +3,7 @@ module.exports.mongoDb = (callback) => {
 
     let hostname = "localhost";
     let port = 27017;
-    let dbName = "duckfunds_db";
+    let dbName = "duckfunds";
     const MongoClient = require('mongodb').MongoClient;
     const url = `mongodb://${hostname}:${port}`;
     var client;
